@@ -1,6 +1,5 @@
-Hi there, nice to see you here 👋😁
+Hi there, it's nice to see you here 👋😁
 
-- 🌱 I’m currently learning Java language (brave or crazy?)
-- 📚 Passionte for knowledge
-- 📫 How to reach me: lauranunes2508@gmail.com
+- 📚 I'm a passionte for knowledge
+- ❗ Currently working with Ruby and Rails
 - 👩🏻‍💻 Pronouns: she/her
